@@ -11,7 +11,7 @@ Use this [commit](https://github.com/input-output-hk/plutus/tree/f7466c86fe3afc5
 3. Requirements
 
 - Spin up your local environment (local testnet, chain index db application)
-- Provide simple UI **OR **curl command (with brief explaination) to:
+- Provide simple UI **OR** curl command (with brief explaination) to:
     - How many new Tokens were minted between 1 September and 10 September
     - How many distinct users coined new Tokens.
     - What were the distinct names of the new coined Tokens? 
