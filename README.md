@@ -17,7 +17,7 @@ Note: This assignment use material from **Plutus Pioneer Capstone** (2021)
         - How many new Tokens were minted between 1 September and 10 September
         - How many distinct users coined new Tokens.
         - What were the distinct names of the new coined Tokens?
-        - Sample curl
+        - Sample curls
                     
             ```
             # query tip
