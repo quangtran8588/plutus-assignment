@@ -1,5 +1,5 @@
 ### Plutus Smart Contract Assignment
-Note: This assignment refer to this document **Plutus Pioneer Capstone
+Note: This assignment refer to this document **Plutus Pioneer Capstone**
 
 1. Spin up test net script
 Getting started is easy; read the [instructions](https://github.com/input-output-hk/testnet-summit-scripts) and run the relevant script for your operating system (Linux or Mac)
