@@ -39,5 +39,5 @@ Note: This assignment use material from **Plutus Pioneer Capstone** (2021)
             }
             ```
 
-    - Submit your solution to github and notify us via email @todo
+    - Submit your solution to github and notify us via email banghahatinh96@gmail.com and please cc paven@spores.app, quang.tran@spores.app
 
