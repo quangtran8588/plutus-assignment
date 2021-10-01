@@ -3,9 +3,10 @@ Note: This assignment use material from **Plutus Pioneer Capstone** (2021)
 
 1. Spin up test net script
 
-Getting started is easy, read the [instructions](https://github.com/input-output-hk/testnet-summit-scripts) and run the relevant script for your operating system (Linux or Mac)
+    Getting started is easy, read the [instructions](https://github.com/input-output-hk/testnet-summit-scripts) and run the relevant script for your operating system (Linux or Mac)
 
-2. Chain index db [link](https://github.com/input-output-hk/plutus/tree/f7466c86fe3afc593746e44257adbf7785f7cedb/plutus-chain-index)
+2. Chain index db;
+Use this [commit](https://github.com/input-output-hk/plutus/tree/f7466c86fe3afc593746e44257adbf7785f7cedb/plutus-chain-index) to spin up your local chain index application. You can refer to [this discord discussion thread](https://discord.com/channels/826816523368005654/890833251248246785/892043577885065246) if any issue
 
 3. Requirements
 
