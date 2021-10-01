@@ -5,15 +5,16 @@ Note: This assignment use material from **Plutus Pioneer Capstone** (2021)
 
     Getting started is easy, read the [instructions](https://github.com/input-output-hk/testnet-summit-scripts) and run the relevant script for your operating system (Linux or Mac)
 
-2. Chain index db;
-Use this [commit](https://github.com/input-output-hk/plutus/tree/f7466c86fe3afc593746e44257adbf7785f7cedb/plutus-chain-index) to spin up your local chain index application. You can refer to [this discord discussion thread](https://discord.com/channels/826816523368005654/890833251248246785/892043577885065246) if any issue
+2. Chain index db
+
+    Use this [commit](https://github.com/input-output-hk/plutus/tree/f7466c86fe3afc593746e44257adbf7785f7cedb/plutus-chain-index) to spin up your local chain index application. You can refer to [this discord discussion thread](https://discord.com/channels/826816523368005654/890833251248246785/892043577885065246) if any issue
 
 3. Requirements
 
-- Spin up your local environment (local testnet, chain index db application)
-- Provide simple UI **OR** curl command (with short comment for explanation) to answer:
-    - How many new Tokens were minted between 1 September and 10 September
-    - How many distinct users coined new Tokens.
-    - What were the distinct names of the new coined Tokens? 
-- Submit your solution to github and notify us via email @todo
+    - Spin up your local environment (local testnet, chain index db application)
+    - Provide simple UI **OR** curl command (with short comment for explanation) to answer:
+        - How many new Tokens were minted between 1 September and 10 September
+        - How many distinct users coined new Tokens.
+        - What were the distinct names of the new coined Tokens? 
+    - Submit your solution to github and notify us via email @todo
 
