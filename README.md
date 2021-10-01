@@ -13,8 +13,31 @@ Note: This assignment use material from **Plutus Pioneer Capstone** (2021)
 
     - Spin up your local environment (local testnet, chain index db application)
     - Provide simple UI **OR** curl command (with short comment for explanation) to answer:
+        
         - How many new Tokens were minted between 1 September and 10 September
         - How many distinct users coined new Tokens.
-        - What were the distinct names of the new coined Tokens? 
+        - What were the distinct names of the new coined Tokens?
+        - Sample curl
+                    
+            ```
+            # query tip
+            curl -s -XGET localhost:9083/tip | jq
+            {
+              "tag": "TipAtGenesis"
+            }
+
+            # chain diagnostics
+            curl -s -XGET localhost:9083/diagnostics | jq
+            {
+              "numRedeemers": 0,
+              "numTransactions": 0,
+              "numValidators": 0,
+              "numAddresses": 0,
+              "numMintingPolicies": 0,
+              "someTransactions": [],
+              "numStakeValidators": 0
+            }
+            ```
+
     - Submit your solution to github and notify us via email @todo
 
